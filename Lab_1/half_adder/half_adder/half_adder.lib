@@ -1,0 +1,76 @@
+timestamp=1730695796212
+
+[~A]
+C:/My_Designs/Lab_1/half_adder/src/half_adder.v_half_adder_sim.v_full_adder.v_full_adder_sim.v_paraller_adder.v_parallel_adder_sim.v=0*28399*29596
+C:/My_Designs/Lab_1/half_adder/src/parallel_adder_sim.v=0*25833*26392
+LastVerilogToplevel=paraller_adder_sim
+ModifyID=13
+Version=74
+c:/My_Designs/Lab_1/half_adder/src/half_adder.v_half_adder_sim.v=0*2187*2739
+c:/My_Designs/Lab_1/half_adder/src/half_adder.v_half_adder_sim.v_full_adder.v_full_adder_sim.v=0*10307*11161
+c:/My_Designs/Lab_1/half_adder/src/half_adder.v_half_adder_sim.v_full_adder.v_full_adder_sim.v_paraller_adder.v=0*15805*16852
+c:/My_Designs/Lab_1/half_adder/src/half_adder.v_half_adder_sim.v_full_adder.v_full_adder_sim.v_paraller_adder.v_parallel_adder_sim.v=0*23641*24789
+c:/My_Designs/Lab_1/half_adder/src/half_adder_sim.v=0*3626*4117
+c:/My_Designs/Lab_1/half_adder/src/parallel_adder_sim.v=0*21139*21634
+
+[~MFT]
+0=9|0half_adder.mgf|29596|7083
+1=14|1half_adder.mgf|58753|52245
+3=28|3half_adder.mgf|43788|38404
+
+[$root]
+A/$root=22|||1*52245
+BinW64/$root=3*38404
+SLP=3*38519
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c9216c7e5b0e83e6d8fbbe43b656d5b199b5a
+
+[full_adder]
+A/full_adder=22|../src/full_adder.v|1|1*54628
+BinW64/full_adder=3*40333
+R=../src/full_adder.v|1
+SLP=3*40662
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b6bc4c72c6b4732d30366d04e0b9d81ca93b35da59acef6f28d70118359e933e350e29197d6eb107f64046a7c2c16d2f
+
+[full_adder_sim]
+A/full_adder_sim=22|../src/full_adder_sim.v|1|1*55992
+BinW64/full_adder_sim=3*40828
+R=../src/full_adder_sim.v|1
+SLP=3*41775
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|17eeb670e5976ba960decadedaf15cde9f797dc9a9053ae1a8fa302ca0dd54ebe96e87e80ba2acbd14c36e0719b23e26
+
+[half_adder]
+A/half_adder=22|../src/half_adder.v|3|1*52651
+BinW64/half_adder=3*38587
+R=../src/half_adder.v|3
+SLP=3*38954
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|9d478890ab412e42d6b75255d560236f41ab0ed49771ee80612b3666c997a9c2cd9645755dea88312c496cff9b2a93f6
+
+[half_adder_sim]
+A/half_adder_sim=22|../src/half_adder_sim.v|3|1*53579
+BinW64/half_adder_sim=3*39144
+R=../src/half_adder_sim.v|3
+SLP=3*39885
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|e6bf47958d334d9464f32610c65f41c2e1647a0404b9fee565da5e7bffb0fcbadf1b3ad328796199302e502ed3f49cba
+
+[parallel_adder]
+A/parallel_adder=22|../src/paraller_adder.v|1|1*57125
+BinW64/parallel_adder=3*42489
+R=../src/paraller_adder.v|1
+SLP=3*42613
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|924f68251de2b29003b847e6811f8d6a4cd34d98929353c95ff0370f4fc71b0a6e71e1040657dc2aa913c6f8eed9510d
+
+[paraller_adder_sim]
+A/paraller_adder_sim=22|../src/parallel_adder_sim.v|1|1*58753
+BinW64/paraller_adder_sim=3*42949
+R=../src/parallel_adder_sim.v|1
+SLP=3*43788
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|0a6998b4b882407f33e365611531ce35926bafd935a1fd1d2c8e572da621570127bdc9ff83b4f81eb23eebf1d7f49afd
+
+[~U]
+$root=12|0*26912|
+full_adder=12|0*27521|
+full_adder_sim=12|0*27751||0x10
+half_adder=12|0*27142|
+half_adder_sim=12|0*27345||0x10
+parallel_adder=12|0*27938|
+paraller_adder_sim=12|0*28197||0x10

@@ -1,0 +1,16 @@
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\adder\src/bread_board.v|]
+TemplateId=2
+ActiveDocument=1
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\adder\src/parallel_adder.v|]
+TemplateId=2
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\adder\src/full_adder.v|]
+TemplateId=2
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\adder\src/comb_full_adder.v|]
+TemplateId=2
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\adder\src/half_adder.v|]
+TemplateId=2
+tab=lu

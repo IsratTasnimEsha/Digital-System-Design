@@ -1,0 +1,6 @@
+i<>.\src\half_adder.bde
+i<>.\src\bread_board.v
+i<>.\src\half_adder.v
+i<>.\src\full_adder.v
+i<>.\src\parallel_adder.v
+i<>.\src\comb_full_adder.v

@@ -1,0 +1,6 @@
+i<>.\src\half_adder.v
+i<>.\src\half_adder_sim.v
+i<>.\src\full_adder.v
+i<>.\src\full_adder_sim.v
+i<>.\src\paraller_adder.v
+i<>.\src\parallel_adder_sim.v

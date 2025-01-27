@@ -1,0 +1,30 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=flipflop
+[Library]
+flipflop=.\flipflop\flipflop.lib
+[$LibMap$]
+flipflop=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/d_flipflop.v=-1
+/bread_board.v=-1
+/register.v=-1
+[Files.Data]
+.\src\d_flipflop.v=Verilog Source Code
+.\src\bread_board.v=Verilog Source Code
+.\src\register.v=Verilog Source Code
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

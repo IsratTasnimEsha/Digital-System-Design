@@ -1,0 +1,59 @@
+timestamp=1733079149701
+
+[~A]
+C:/my_designs/Lab_2_/flipflop/src/d_flipflop.v=0*1721*2191
+C:/my_designs/Lab_2_/flipflop/src/d_flipflop.v_bread_board.v=0*5055*5811
+C:/my_designs/Lab_2_/flipflop/src/d_flipflop.v_bread_board.v_register.v=0*45501*46460
+C:/my_designs/Lab_2_/flipflop/src/register.v=0*9028*9512
+G:/Lab/CSE/Lab Works/Lab_3/Lab_3/flipflop/src/d_flipflop.v_bread_board.v_register.v=0*73859*74798
+G:/Lab/CSE/Lab Works/Lab_3/flipflop/src/d_flipflop.v_bread_board.v_register.v=0*95263*96196
+LastVerilogToplevel=bread_board
+ModifyID=43
+Version=74
+c:/my_designs/Lab_2_/flipflop/src/d_flipflop.v=0*378*848
+
+[~MFT]
+0=8|0flipflop.mgf|96196|53806
+1=8|1flipflop.mgf|183293|179179
+3=16|3flipflop.mgf|119689|116197
+
+[$root]
+A/$root=22|||1*180267
+BinW64/$root=3*116863
+SLP=3*116978
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c9216d7535e8f124e92f8b3f6d48f77150ee0
+
+[bread_board]
+A/bread_board=22|../src/bread_board.v|3|1*181753
+BinW64/bread_board=3*117719
+R=../src/bread_board.v|3
+SLP=3*118547
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|515d06278a6d9b36b62e1e82d28547e91318c6a7986d7dfaa4e40e563bdd415c6d0c29770a1faba55ab0f6019f88a6a5
+
+[d_flipflop]
+A/d_flipflop=22|../src/d_flipflop.v|1|1*180657
+BinW64/d_flipflop=3*117046
+R=../src/d_flipflop.v|1
+SLP=3*117511
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|f14304628f560a9a8ef9c3ab23ec6f75aa828d11cf2094224bc54945fa492735effccf611fbb0580aa5d96615e547e19
+
+[flipflop]
+A/flipflop=22|../src/d_flipflop.v|1|1*6020
+BinW64/flipflop=3*3821
+R=../src/d_flipflop.v|1
+SLP=3*4284
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|e9408e9444cea9f9d65bc524f6f560676b28b4e53bff683f3c57bc95b85ee1bc1a76f0d8282468b52e21df1b03032ed1
+
+[register]
+A/register=22|../src/register.v|1|1*183293
+BinW64/register=3*119017
+R=../src/register.v|1
+SLP=3*119689
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|5fa1b53f1300c4835386baab9d0c635e1096506f0a00bc334a610cd78bf011ddfdbd040cf49a9dcd5e72d65e47dcbc05
+
+[~U]
+$root=12|0*94444|
+bread_board=12|0*94858||0x10
+d_flipflop=12|0*94642||0x10
+flipflop=12|0*4656|
+register=12|0*95034|

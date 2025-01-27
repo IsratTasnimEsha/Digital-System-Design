@@ -1,0 +1,11 @@
+[Version]
+Version=15.0
+[Designs]
+flipflop=.\flipflop\flipflop.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+[Expand]
+flipflop=1

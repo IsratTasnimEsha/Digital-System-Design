@@ -1,0 +1,40 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=adder
+[Library]
+adder=.\adder\adder.lib
+[$LibMap$]
+adder=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/half_adder.bde=-1
+/bread_board.v=-1
+/half_adder.v=-1
+/full_adder.v=-1
+/parallel_adder.v=-1
+/comb_full_adder.v=-1
+/result.asdb=-1
+/result.awc=-1
+[Files.Data]
+.\src\half_adder.bde=Block Diagram
+.\src\bread_board.v=Verilog Source Code
+.\src\half_adder.v=Verilog Source Code
+.\src\full_adder.v=Verilog Source Code
+.\src\parallel_adder.v=Verilog Source Code
+.\src\comb_full_adder.v=Verilog Source Code
+.\src\result.asdb=Accelerated Waveform File
+.\src\result.awc=Accelerated Waveform Configuration
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

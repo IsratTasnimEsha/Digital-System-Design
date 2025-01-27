@@ -1,0 +1,1 @@
+-o "G:/Lab/CSE/Lab Works/Lab_2/adder/compile" -lc "G:/Lab/CSE/Lab Works/Lab_2/library.cfg" -fl "G:/Lab/CSE/Lab Works/Lab_2/adder/projlib.cfg" -pli "C:/Aldec/Active-HDL-Student-Edition/bin/systf.dll" -O2 -sve -msg 5 -sv2k17 -work adder "G:/Lab/CSE/Lab Works/Lab_2/adder/src/bread_board.v" 

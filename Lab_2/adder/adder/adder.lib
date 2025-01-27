@@ -1,0 +1,64 @@
+timestamp=1736674740997
+
+[~A]
+C:/My_Designs/Lab_2/adder/src/bread_board.v=0*39621*40232
+C:/My_Designs/Lab_2/adder/src/bread_board.v_half_adder.v_full_adder.v_parallel_adder.v_comb_full_adder.v=0*32986*34187
+G:/Lab/CSE/Lab Works/Lab_2/adder/src/bread_board.v=0*41105*41723
+LastVerilogToplevel=bread_board
+ModifyID=17
+Version=74
+c:/My_Designs/Lab_2/adder/src/bread_board.v=0*328*683
+
+[~MFT]
+0=4|0adder.mgf|41723|20383
+1=4|1adder.mgf|95353|88476
+3=8|3adder.mgf|51375|47668
+
+[$root]
+A/$root=22|||1*94979
+BinW64/$root=3*50261
+SLP=3*50376
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c921615af3f6257bc1c73ba3d4a4578ec614a
+
+[bread_board]
+A/bread_board=22|../src/bread_board.v|3|1*95353
+BinW64/bread_board=3*50444
+R=../src/bread_board.v|3
+SLP=3*51375
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|515d06278a6d9b36b62e1e82d28547e91318c6a7986d7dfaa4e40e563bdd415cf9c86b2fda0466172f5f225a85cccfbb
+
+[comb_full_adder]
+A/comb_full_adder=22|../src/comb_full_adder.v|1|1*85450
+BinW64/comb_full_adder=3*42057
+R=../src/comb_full_adder.v|1
+SLP=3*42794
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|bd418d82b2adc86325a95be129222796084b4d1e1563b216aee857667041e418894bc2a24091bec0bb8e16b8c257f538
+
+[full_adder]
+A/full_adder=22|../src/full_adder.v|1|1*84085
+BinW64/full_adder=3*41561
+R=../src/full_adder.v|1
+SLP=3*41890
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b6bc4c72c6b4732d30366d04e0b9d81ca93b35da59acef6f28d70118359e933e2ea2e4485dab8255fd5070cb160d39fc
+
+[half_adder]
+A/half_adder=22|../src/half_adder.v|1|1*83158
+BinW64/half_adder=3*41004
+R=../src/half_adder.v|1
+SLP=3*41371
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|9d478890ab412e42d6b75255d560236f41ab0ed49771ee80612b3666c997a9c232539f6885a47b9e6b6b3b540d62b17b
+
+[parallel_adder]
+A/parallel_adder=22|../src/parallel_adder.v|1|1*81290
+BinW64/parallel_adder=3*40540
+R=../src/parallel_adder.v|1
+SLP=3*40664
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|924f68251de2b29003b847e6811f8d6a4cd34d98929353c95ff0370f4fc71b0a2af3fbe331cb4d452772e00d54597554
+
+[~U]
+$root=12|0*40724|
+bread_board=12|0*40922||0x10
+comb_full_adder=12|0*32735|
+full_adder=12|0*32505|
+half_adder=12|0*32302|
+parallel_adder=12|0*32025|
